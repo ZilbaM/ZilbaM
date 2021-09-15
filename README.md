@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, my name is Basile 👑
 
+#About me<hr>
+
+####**I am :** 
+
+    *French
+    *A developper 
+    *A student at the Institute of Internet and Multimedia in Paris. 
 <!--
 **ZilbaM/ZilbaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
