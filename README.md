@@ -1,6 +1,6 @@
 # Hi there, I'm Basile Maille 👋
 
-I'm a **Creative Technology Master's student** at the Institute for Future Technologies in La Défense, France. My passion lies at the intersection of technology, design, and innovation. I love building solutions that not only solve problems but also enhance user experiences.
+I'm a **Software Engineering Master's student** at the Institute for Future Technologies in La Défense, France. My passion lies at the intersection of technology, design, and innovation. I love building solutions that not only solve problems but also enhance user experiences.
 
 ## 🔭 What I'm Working On
 
