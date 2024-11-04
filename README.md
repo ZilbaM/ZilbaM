@@ -4,9 +4,9 @@ I'm a **Software Engineering Master's student** at the Institute for Future Tech
 
 ## 🔭 What I'm Working On
 
-- **AI Projects**: Exploring advanced techniques like Transformers and GANs, or simple methods such as prompt engineering.
-- **Interactive Installations**: Merging physical and digital worlds to create engaging user experiences.
 - **Web projects**: Using my skills in web development to bring interesting projects to life.
+- **AI Projects**: Exploring advanced techniques of Deep Learning, or simple methods such as prompt engineering.
+- **Interactive Installations**: Merging physical and digital worlds to create engaging user experiences.
 
 ## 🛠️ Skills
 
