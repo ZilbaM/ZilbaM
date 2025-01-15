@@ -14,13 +14,12 @@ I'm a **Software Engineering Master's student** at the Institute for Future Tech
 
 ## ⚡ Fun Facts
 
-- 🎾 Avid Tennis player.
 - 🎹 Enjoy playing the Piano.
 - 🎨 Love making art things in my free time.
 
 ## 📫 Get in Touch
 
-Feel free to reach out if you want to collaborate on a project, have a chat about technology, or play a game of tennis!
+Feel free to reach out if you want to collaborate on a project, have a chat about technology !
 
 ---
 
