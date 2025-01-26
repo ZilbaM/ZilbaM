@@ -2,10 +2,7 @@
 
 I'm a **Software Engineering Master's student** at the Institute for Future Technologies in La Défense, France. My passion lies at the intersection of technology, design, and innovation. I love building solutions that not only solve problems but also enhance user experiences.
 
-## 🔭 What I'm Working On
-
-- **Web projects**: Using my skills in web development to bring interesting projects to life.
-- **AI Projects**: Exploring advanced techniques of Deep Learning, or simple methods such as prompt engineering.
+I'm striving to become a master of Javascript through my projects, making it my main area of expertise and work.
 
 ## 🤝 Let's Connect
 
